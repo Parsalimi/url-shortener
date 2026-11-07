@@ -208,11 +208,3 @@ The benchmark shows that short-link creation is significantly more expensive tha
 ## Design Decisions
 
 Architectural and implementation decisions are documented in [`DECISIONS.md`](DECISIONS.md).
-
-## Academic Integrity
-
-This project is my own implementation. I did not discuss the implementation or design with classmates, submit another student's repository, or copy a public solution verbatim.
-
-I received mentorship from **Mr. Amir Hesari**, who provided guidance throughout the project.
-
-AI tools were used as a **consulting and review aid**, not as the project's coder. They were used for design discussion, code review, debugging, naming, and improving the `DECISIONS.md` and `README.md` documentation. The implementation, integration, testing, and final technical decisions were my own.
